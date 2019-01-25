@@ -1,0 +1,14 @@
+.body {
+    width: 960px;
+    background-color:black;
+}
+img {
+    width: 220px;
+   
+}
+#maincontainer{
+    width: 40%;
+    border: solid 2px blue;
+    color: blue;
+    height: 370px;
+}
