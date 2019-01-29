@@ -1,14 +1,29 @@
 .body {
     width: 960px;
-    background-color:black;
+    
+}
+p {
+    color: red;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Gloria Hallelujah', cursive;
+    z-index: 100;
 }
 img {
-    width: 220px;
-   
-}
+    width: 100%;
+    z-index: 1;
+    
+   }
 #maincontainer{
-    width: 40%;
-    border: solid 2px blue;
-    color: blue;
-    height: 370px;
+    margin-right:60px;
+    width: 45%;
+    border: dashed 2px;
+    color: red;
+    height: 390px;
+    border-top-color: rgb(153, 4, 153) ;
+    border-bottom-color: rgb(153, 4, 153);
+    border-left-color: yellow;
+    border-right-color:yellow;
+    z-index: 100;
+    top: 100px;
 }
